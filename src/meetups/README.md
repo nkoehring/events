@@ -159,7 +159,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - Germay - [vuejs.de Germany](https://www.vuejs.de/)
 - Aachen - [Aachen Vue.js](https://www.meetup.com/aachen-vue-js-meetup/)
-- Berlin - [Vue.js // Berlin](https://meetup.com/Vue-js-Berlin)
+- Berlin - [Vue.js // Berlin](https://vuejs.berlin)
 - Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)
 - Frankfurt - [Vue.js Frankfurt](https://meetup.com/vuejsfrankfurt)
 - Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
